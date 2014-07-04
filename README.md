@@ -1,7 +1,7 @@
 ##What Is FIDDLE?
 
-The **F**oodborne **I**llness **D**ata **D**umps, **L**iberators, and 
-**E**xtractors.
+The __F__oodborne __I__llness __D__ata __D__umps, __L__iberators, and 
+__E__xtractors.
 
 This is a public domain repository of data and code related to foodborne
 illnesses in the United States. Our goal is to gather, clean, and 
