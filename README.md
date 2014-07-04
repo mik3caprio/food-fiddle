@@ -46,28 +46,28 @@ the data and code from this repository, and we recommend you install them
 before you begin work:
 
 ~~~~
-ack			harfbuzz	pango		sqlite
-atk			icu4c	 	pcre		subversion
-autoconf	 	imagemagick	pillow		suite-sparse
-automake	 	isl		pixman		swig
-brew-pip	 	jasper		pkg-config	tbb
-cairo		 	jpeg		portmidi	webp
-cloog		 	libffi		postgresql	wget
-cmake		 	libmpc		py2cairo	wxmac
-fontconfig		libpng		pypy		wxpython
-freetype	 	libtiff		pyqt		xz
-gdbm		 	libtool		python		zeromq
-gdk-pixbuf	 	libyaml		qt		
-gettext		 	little-cms	rbenv		
-gfortran	 	makedepend	readline	
-git		 	matplotlib	scons		
-glib		 	mercurial	sdl		
-gmp		 	mpfr		sdl_image	
-go		 	neon		sdl_mixer	
-gobject-introspection	numpy		sdl_ttf	
-graphicsmagick		openblas	serf	
-graphviz		openssl		sip	
-gtk+			ossp-uuid	smpeg
+ack                     harfbuzz      pango        sqlite
+atk                     icu4c         pcre         subversion
+autoconf                imagemagick   pillow       suite-sparse
+automake                isl           pixman       swig
+brew-pip                jasper        pkg-config   tbb
+cairo                   jpeg          portmidi     webp
+cloog                   libffi        postgresql   wget
+cmake                   libmpc        py2cairo     wxmac
+fontconfig              libpng        pypy         wxpython
+freetype                libtiff       pyqt         xz
+gdbm                    libtool       python       zeromq
+gdk-pixbuf              libyaml       qt		
+gettext                 little-cms    rbenv		
+gfortran                makedepend    readline	
+git                     matplotlib    scons		
+glib                    mercurial     sdl		
+gmp                     mpfr          sdl_image	
+go                      neon          sdl_mixer	
+gobject-introspection   numpy         sdl_ttf	
+graphicsmagick          openblas      serf	
+graphviz                openssl       sip	
+gtk+                    ossp-uuid     smpeg
 ~~~~
 
 ####2. Heroku
