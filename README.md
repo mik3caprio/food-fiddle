@@ -1,4 +1,7 @@
-##The **F**oodborne **I**llness **D**ata **D**umps, **L**iberators, and **E**xtractors
+##What Is FIDDLE?
+
+The **F**oodborne **I**llness **D**ata **D**umps, **L**iberators, and 
+**E**xtractors.
 
 This is a public domain repository of data and code related to foodborne
 illnesses in the United States. Our goal is to gather, clean, and 
@@ -9,10 +12,10 @@ saving lives.
 
 ####0. SSH keys
 
-The first thing you should do is to create accounts at Github and Heroku
-and enable SSH keys. You can follow all the instructions to generate
-SSH keys at the link below, then add them in the same way to your Github
-and Heroku accounts:
+The first thing you should do is to create accounts at [Github](http://github.com/) 
+and [Heroku](http://heroku.com/) and enable SSH keys. You can follow all the 
+instructions to generate SSH keys at the link below, then add them in the same 
+way to your Github and Heroku accounts:
 
 [https://help.github.com/articles/generating-ssh-keys](https://help.github.com/articles/generating-ssh-keys)
 
@@ -28,36 +31,36 @@ and PostgreSQL installed via Homebrew. Learn more about Homebrew here:
 Follow all the instructions there to get Homebrew running, and get used to
 running the following commands before you begin each work session:
 
-`$ brew update`
-`$ brew upgrade`
-`$ brew doctor`
+`$ brew update
+$ brew upgrade
+$ brew doctor`
 
 The following Homebrew packages are commonly installed for working with
 the data and code from this repository, and we recommend you install them
 before you begin work:
 
-  ack			harfbuzz	pango		sqlite
-  atk			icu4c	 	pcre		subversion
-  autoconf	 	imagemagick	pillow		suite-sparse
-  automake	 	isl		pixman		swig
-  brew-pip	 	jasper		pkg-config	tbb
-  cairo		 	jpeg		portmidi	webp
-  cloog		 	libffi		postgresql	wget
-  cmake		 	libmpc		py2cairo	wxmac
-  fontconfig		libpng		pypy		wxpython
-  freetype	 	libtiff		pyqt		xz
-  gdbm		 	libtool		python		zeromq
-  gdk-pixbuf	 	libyaml		qt		
-  gettext		 	little-cms	rbenv		
-  gfortran	 	makedepend	readline	
-  git		 	matplotlib	scons		
-  glib		 	mercurial	sdl		
-  gmp		 	mpfr		sdl_image	
-  go		 	neon		sdl_mixer	
-  gobject-introspection	numpy		sdl_ttf	
-  graphicsmagick		openblas	serf	
-  graphviz		openssl		sip	
-  gtk+			ossp-uuid	smpeg	
+`ack			harfbuzz	pango		sqlite
+atk			icu4c	 	pcre		subversion
+autoconf	 	imagemagick	pillow		suite-sparse
+automake	 	isl		pixman		swig
+brew-pip	 	jasper		pkg-config	tbb
+cairo		 	jpeg		portmidi	webp
+cloog		 	libffi		postgresql	wget
+cmake		 	libmpc		py2cairo	wxmac
+fontconfig		libpng		pypy		wxpython
+freetype	 	libtiff		pyqt		xz
+gdbm		 	libtool		python		zeromq
+gdk-pixbuf	 	libyaml		qt		
+gettext		 	little-cms	rbenv		
+gfortran	 	makedepend	readline	
+git		 	matplotlib	scons		
+glib		 	mercurial	sdl		
+gmp		 	mpfr		sdl_image	
+go		 	neon		sdl_mixer	
+gobject-introspection	numpy		sdl_ttf	
+graphicsmagick		openblas	serf	
+graphviz		openssl		sip	
+gtk+			ossp-uuid	smpeg	`
 
 ####2. Heroku
 
@@ -99,5 +102,6 @@ Thank you for taking an interest in the work ahead - together we can make
 a difference, preventing sickness and saving lives!
   
   
-  sincerely,
-  The FIDDLE Team
+sincerely,
+
+The FIDDLE Team
