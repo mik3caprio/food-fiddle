@@ -31,15 +31,18 @@ and PostgreSQL installed via Homebrew. Learn more about Homebrew here:
 Follow all the instructions there to get Homebrew running, and get used to
 running the following commands before you begin each work session:
 
-`$ brew update
+~~~~
+$ brew update
 $ brew upgrade
-$ brew doctor`
+$ brew doctor
+~~~~
 
 The following Homebrew packages are commonly installed for working with
 the data and code from this repository, and we recommend you install them
 before you begin work:
 
-`ack			harfbuzz	pango		sqlite
+~~~~
+ack			harfbuzz	pango		sqlite
 atk			icu4c	 	pcre		subversion
 autoconf	 	imagemagick	pillow		suite-sparse
 automake	 	isl		pixman		swig
@@ -60,7 +63,8 @@ go		 	neon		sdl_mixer
 gobject-introspection	numpy		sdl_ttf	
 graphicsmagick		openblas	serf	
 graphviz		openssl		sip	
-gtk+			ossp-uuid	smpeg	`
+gtk+			ossp-uuid	smpeg
+~~~~
 
 ####2. Heroku
 
