@@ -106,6 +106,10 @@ though we are using git and Github for source and data control. We need to
 avoid namespace collisions so that people don't lose their work or have to
 perform painful merges or rebases when they pull from the repo.
 
+Check out the wiki link below "pull requests" at the top right sidebar of this
+page. Read through it to understand more about what the project is about,
+and use it to discuss our goals, ask questions, and help us provide answers.
+
 Thank you for taking an interest in the work ahead - together we can make
 a difference, preventing sickness and saving lives!
   
