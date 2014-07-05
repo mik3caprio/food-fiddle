@@ -14,9 +14,10 @@ saving lives.
 
 ### Getting Started
 
-Check out the Github wiki link in the right sidebar on this page, it contains 
-some background and several pages worth of content and research done so far on
-the problem, and we highly recommend reading through it first.
+Check out the Github wiki link in the right sidebar of the repository's home 
+page, it contains much background and several pages worth of content and 
+research done so far on the problem, we highly recommend reading through it 
+first.
 
 Each folder in the repository should contain a README file that explains more 
 about naming conventions, standards, and other best practices for collecting, 
@@ -124,9 +125,9 @@ control. We need to avoid namespace collisions so that people don't lose their
 work or have to perform painful merges or rebases when they pull from the repo.
 
 Again, first check out the wiki link below "pull requests" at the top right 
-sidebar of this page. Read through it to understand more about what the 
-project is about, and use it to discuss our goals, ask questions, and help us 
-find and provide solutions to the problem of foodborne illness.
+sidebar of the repository home page. Read through it to understand more about 
+what the project is about, and use it to discuss our goals, ask questions, and 
+help us find and provide solutions to the problem of foodborne illness.
 
 Thank you for taking an interest in the work ahead - together we can make
 a difference, preventing sickness and saving lives!
