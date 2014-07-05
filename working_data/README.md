@@ -49,32 +49,37 @@ After you start PostgreSQL from the command line, usually with the "psql"
 command, you'll need to enter "slash commands" at the postgres prompt.
 Here is a quick list of commands you'll use all the time.
 
-__List databases__
-postgres=# \l
+<dl>
+<dt><strong>List databases</strong></dt>
+<dd><pre>postgres=# \l</pre></dd>
 
-__Create database__
-postgres=# CREATE DATABASE demodb1 WITH OWNER demorole1 ENCODING 'UTF8';
+<dt><strong>Create database</strong></dt>
+<dd><pre>postgres=# CREATE DATABASE demodb1 WITH OWNER demorole1 ENCODING 'UTF8';</pre></dd>
 
-__Grant privileges to new user__
-postgres=# GRANT ALL PRIVILEGES ON DATABASE demodb1 TO demorole1;
+<dt><strong>Grant privileges to new user</strong></dt>
+<dd><pre>postgres=# GRANT ALL PRIVILEGES ON DATABASE demodb1 TO demorole1;</pre></dd>
 
-__Load data into database__
-postgres=# pg_dump <databasename> > <outfile> 
+<dt><strong>Connect to database</strong></dt>
+<dd><pre>postgres=# \c [databasename]</pre></dd>
 
-__Connect to database__
-postgres=# \c <databasename>
+<dt><strong>List tables in connected database</strong></dt>
+<dd><pre>postgres=# \dt</pre></dd>
 
-__List tables in connected database__
-postgres=# \dt
+<dt><strong>Create table</strong></dt>
+<dd><pre>postgres=# CREATE TABLE CUISINE_CODE(CODE CHAR(20), CODEDESC VARCHAR(200));</pre></dd>
 
-__List columns on table__
-postgres=# \d <tablename>
+<dt><strong>Load data into table</strong></dt>
+<dd><pre>postgres=# COPY [temp_table] FROM '/path/to/file/WebExtract.txt' DELIMITER ',' CSV;</pre></dd>
 
-__Backup database__
-postgres=# pg_dump <databasename> > <outfile> 
+<dt><strong>List columns on table</strong></dt>
+<dd><pre>postgres=# \d [tablename]</pre></dd>
 
-__Drop database__
-postgres=# DROP DATABASE demodb1;
+<dt><strong>Backup database</strong></dt>
+<dd><pre>postgres=# pg_dump <databasename> > <outfile> 
+
+<dt><strong>Drop database</strong></dt>
+<dd><pre>postgres=# DROP DATABASE demodb1;</pre></dd>
+</dl>
 
 ===
 
