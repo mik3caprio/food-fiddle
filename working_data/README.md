@@ -22,7 +22,20 @@ if you ever try to merge your branch with another one!!*__
 
 ### How To Create A Working Data Project
 
+The first thing you should do is come up with a descriptive directory name 
+for your working data project. Any name will do as long as it doesn't exist 
+already in the working_data directory.
 
+Next create a README file in your new directory and include a brief 
+description of what you're trying to accomplish in your working data project 
+so that others will know what they can do to help you out.
+
+Copy all the source_data files you need into your working_data working data
+project directory, and you can then modify them however you see fit, including 
+choosing appropriate final names for the files for when they become clean 
+data files.
+
+Then have at it!
 
 __NOTE: Please try to standardize all file contents into UTF-8 wherever 
 possible. This may mean having to open the file in several editors and 
@@ -32,7 +45,7 @@ saving it a few different ways.__
 
 ### Standardizing Data Into Its Final Form
 
-> __"This isn't even my final form!" --Frieza, Dragonball Z__
+> __*"This isn't even my final form!" --Frieza, Dragonball Z*__
 
 ===
 
