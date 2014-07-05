@@ -43,6 +43,41 @@ saving it a few different ways.__
 
 ===
 
+### PostgreSQL Cheat Sheet
+
+After you start PostgreSQL from the command line, usually with the "psql" 
+command, you'll need to enter "slash commands" at the postgres prompt.
+Here is a quick list of commands you'll use all the time.
+
+__List databases__
+postgres=# \l
+
+__Create database__
+postgres=# CREATE DATABASE demodb1 WITH OWNER demorole1 ENCODING 'UTF8';
+
+__Grant privileges to new user__
+postgres=# GRANT ALL PRIVILEGES ON DATABASE demodb1 TO demorole1;
+
+__Load data into database__
+postgres=# pg_dump <databasename> > <outfile> 
+
+__Connect to database__
+postgres=# \c <databasename>
+
+__List tables in connected database__
+postgres=# \dt
+
+__List columns on table__
+postgres=# \d <tablename>
+
+__Backup database__
+postgres=# pg_dump <databasename> > <outfile> 
+
+__Drop database__
+postgres=# DROP DATABASE demodb1;
+
+===
+
 ### Standardizing Data Into Its Final Form
 
 > __*"This isn't even my final form!" --Frieza, Dragonball Z*__
