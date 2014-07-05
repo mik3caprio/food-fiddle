@@ -30,6 +30,12 @@ saving it a few different ways.__
 
 ===
 
+### Standardizing Data Into Its Final Form
+
+> __"This isn't even my final form!" --Frieza, Dragonball Z__
+
+===
+
 We know that procedures like this may seem like a bit of "overkill" but trust 
 us... doing things the right way from the beginning will save a lot of 
 headaches down the road. Data projects like this need to have strict 
