@@ -12,7 +12,9 @@ into that new directory. Treat these source_data files in this directory as
 "forensic evidence" that should never be tampered with.
 
 See the README file in the working_data directory to learn more about how
-to create datasets in that part of the repository.
+to work with files and create datasets in that part of the repository.
+
+===
 
 ### About Naming Conventions
 
@@ -31,7 +33,7 @@ Next, the source data file should have the directory structure it belongs in
 as part of its name. This means that a file that originated from New York
 state should start with something like:
 
-20140704230703_state_ny_
+`20140704230703_state_ny_`
 
 This is so that if, for whatever reason, a file gets "misplaced", we will be
 able to see right away that it's in the wrong directory just by looking at 
@@ -43,7 +45,7 @@ For the next step, you should choose a descriptive name or phrase to
 indicate what the file contains, and it should be easy to see and understand 
 at a glance. For example:
 
-20140704230703_state_ny_2011_DOH_restaurant_violations
+`20140704230703_state_ny_2011_DOH_restaurant_violations`
 
 In general, if a date or time range is relevant to the contents of the file,
 start the descriptive name element of the file name with an appropriate date
@@ -56,16 +58,16 @@ be used in lieu of a descriptive name element. Replace any dashes (-) or
 other symbols in original names with underscores, and start their names
 with date indications whenever necessary. As an example:
 
-20140704230703_state_ny_2011_dohviol_63401.9
+`20140704230703_state_ny_2011_dohviol_63401.9`
 
 Lastly, be sure to end the name with a filename extension that indicates what 
 the file is.
 
-20140704230703_state_ny_2011_dohviol_63401.9.csv
+`20140704230703_state_ny_2011_dohviol_63401.9.csv`
 
-NOTE: Please try to standardize all file contents into UTF-8 wherever 
+__NOTE: Please try to standardize all file contents into UTF-8 wherever 
 possible. This may mean having to open the file in several editors and 
-saving it a few different ways.
+saving it a few different ways.__
 
 ===
 
