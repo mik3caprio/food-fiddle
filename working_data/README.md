@@ -75,7 +75,7 @@ Here is a quick list of commands you'll use all the time.
 <dd><pre>postgres=# \d [tablename]</pre></dd>
 
 <dt><strong>Backup database</strong></dt>
-<dd><pre>postgres=# pg_dump <databasename> > <outfile> 
+<dd><pre>postgres=# pg_dump [databasename] > [outfile]</pre></dd>
 
 <dt><strong>Drop database</strong></dt>
 <dd><pre>postgres=# DROP DATABASE demodb1;</pre></dd>
