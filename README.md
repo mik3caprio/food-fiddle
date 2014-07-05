@@ -1,4 +1,4 @@
-##What Is FIDDLE?
+## What Is FIDDLE?
 
 __F__ oodborne
 __I__ llness
@@ -12,9 +12,19 @@ illnesses in the United States. Our goal is to gather, clean, and
 disseminate the information that could lead to eliminating illness and
 saving lives.
 
-###How To Set Up Your System
+### Getting Started
 
-####0. SSH keys
+Check out the Github wiki link in the right sidebar on this page, it contains 
+some background and several pages worth of content and research done so far on
+the problem, and we highly recommend reading through it first.
+
+Each folder in the repository should contain a README file that explains more 
+about naming conventions, standards, and other best practices for collecting, 
+managing, and working with datasets.
+
+### How To Set Up Your System To Work With This Repository
+
+#### 0. Create Accounts and SSH keys
 
 The first thing you should do is to create accounts at [Github](http://github.com/) 
 and [Heroku](http://heroku.com/) and enable SSH keys. You can follow all the 
@@ -23,7 +33,7 @@ way to your Github and Heroku accounts:
 
 [https://help.github.com/articles/generating-ssh-keys](https://help.github.com/articles/generating-ssh-keys)
 
-####1. Homebrew
+#### 1. Set Up Homebrew
 
 Our team is primarily using Python and PostgreSQL for data cleansing and
 data warehousing. On Mac OS, we recommend you use the Homebrew package
@@ -70,11 +80,17 @@ graphviz                openssl       sip
 gtk+                    ossp-uuid     smpeg
 ~~~~
 
+If you're not using Homebrew, we recommend you use the latest versions of 
+each of these packages in whatever package manager you are using. It's 
+reasonably likely that you won't run into too many problems if you're a 
+little more bleeding edge than Homebrew is.
+
 ####2. Heroku
 
-In addition to this repository, we will maintain a Heroku instance with live
-visualizations and informational content. This repository will act as a 
-gateway to deploy to that instance. Stay tuned for more details there.
+In addition to this repository, we will maintain a Heroku instance with a 
+web server / web site that will have live visualizations and informational 
+content. This repository will act as a gateway to deploy to that instance. 
+Stay tuned for more details about this as we progress.
 
 [http://heroku.com/](http://heroku.com/)
 
@@ -86,7 +102,8 @@ Install the Heroku toolbelt following these instructions:
 
 We also plan to make use of the ScraperWiki tool, at least for gathering data
 at first, but possibly to also mirror data or to act as a center for working
-data prior to adding to this repository.
+data prior to adding to this repository. ScraperWiki can run code written in 
+several lanugages, but we'll continue to recommend Python for the time being.
 
 [https://scraperwiki.com/](https://scraperwiki.com/)
 
@@ -97,18 +114,19 @@ the usual way:
 
 `git clone git@github.com:mik3cap/food-fiddle.git`
 
-Read through all of the directory structures to get a feel for the data. There
-are README files in each directory explaining further how to get set up to 
-work with the data. If you find data sources that we do not have that you 
-believe are useful, please add them, but PLEASE follow the naming conventions
-we are using for files. It's vital that we maintain consistency there even
-though we are using git and Github for source and data control. We need to 
-avoid namespace collisions so that people don't lose their work or have to
-perform painful merges or rebases when they pull from the repo.
+Read through all of the directory structures to get a feel for the data and 
+our process. There are README files in each directory explaining further how 
+to get set up to work with datasets. If you find data sources that we do not 
+have that you believe are useful, please add them, but PLEASE follow the 
+naming conventions we are using for files. It's vital that we maintain 
+consistency even though we are using git and Github for source and data 
+control. We need to avoid namespace collisions so that people don't lose their 
+work or have to perform painful merges or rebases when they pull from the repo.
 
-Check out the wiki link below "pull requests" at the top right sidebar of this
-page. Read through it to understand more about what the project is about,
-and use it to discuss our goals, ask questions, and help us provide answers.
+Again, first check out the wiki link below "pull requests" at the top right 
+sidebar of this page. Read through it to understand more about what the 
+project is about, and use it to discuss our goals, ask questions, and help us 
+find and provide solutions to the problem of foodborne illness.
 
 Thank you for taking an interest in the work ahead - together we can make
 a difference, preventing sickness and saving lives!
