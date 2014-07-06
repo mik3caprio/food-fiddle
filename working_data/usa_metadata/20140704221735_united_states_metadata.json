@@ -1,4 +1,4 @@
-{"states_metadata":
+{"States metadata":
   [
     {
       "Name":"50 states and D.C.",
@@ -24,778 +24,729 @@
     },
     {
       "Name":"All U.S. territory",
-"USPS":"USA",
-"Total Area Rank":-1,
-"Total sq mi":3805943.26,
-"Total sq km":9857348,
-"Land Area Rank":-1,
-"Land sq mi":3535948.12,
-"Land sq km":9158064,
-"Land %":92.91,
-"Water sq mi":269995.13,
-"Water sq km":699284,
-"Water %":7.09,
-"Status":"Federal state",
-"ISO":["US", "USA"],
-"ANSI Alpha":"US",
-"ANSI Numeric":0,
-"USCG":"US",
-"Old GPO":"U.S.",
-"AP":"U.S.",
-"Other":["U.S.A."]
-}
-{
-"Name":"American Samoa",
-"USPS":"AS",
-"Total Area Rank":-1,
-"Total sq mi":581.05,
-"Total sq km":1505,
-"Land Area Rank":-1,
-"Land sq mi":76.46,
-"Land sq km":198,
-"Land %":13.16,
-"Water sq mi":504.60,
-"Water sq km":1307,
-"Water %":86.84,
-"Status":"Insular area (Territory)",
-"ISO":["US-AS", "AS", "ASM"],
-"ANSI Alpha":"AS",
-"ANSI Numeric":60,
-"USCG":"AS",
-"Old GPO":"AS",
-"AP":"A.S."
-},
-{
-"Name":"Baker Island",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"island",
-"ISO":["UM-81"],
-"ANSI Numeric":81
-},
-{
-"Name":"Contiguous United States",
-"USPS":"USA",
-"Total Area Rank":-1,
-"Total sq mi":3120426.47,
-"Total sq km":8081867,
-"Land Area Rank":-1,
-"Land sq mi":2954841.42,
-"Land sq km":7653004,
-"Land %":94.69,
-"Water sq mi":165584.6,
-"Water sq km":428862,
-"Water %":5.31,
-"Status":"Federal state",
-"ISO":["US", "USA"],
-"ANSI Alpha":"US",
-"ANSI Numeric":0,
-"USCG":"US",
-"Old GPO":"U.S.",
-"AP":"U.S.",
-"Other":["U.S.A."]
-},
-{
-"Name":"District of Columbia",
-"USPS":"DC",
-"Total Area Rank":-1,
-"Total sq mi":68.34,
-"Total sq km":177,
-"Land Area Rank":-1,
-"Land sq mi":61.05,
-"Land sq km":158,
-"Land %":89.33,
-"Water sq mi":7.29,
-"Water sq km":19,
-"Water %":10.67,
-"Status":"Federal district",
-"ISO":["US-DC"],
-"ANSI Alpha":"DC",
-"ANSI Numeric":11,
-"USCG":"DC",
-"Old GPO":"D.C.",
-"AP":"D.C.",
-"Other":["Wash. D.C."]
-},
-{
-"Name":"Federated States of Micronesia",
-"USPS":"FM",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Freely associated state",
-"ISO":["FM", "FSM"],
-"ANSI Alpha":"FM",
-"ANSI Numeric":64
-},
-{
-"Name":"Guam",
-"USPS":"GU",
-"Total Area Rank":-1,
-"Total sq mi":570.62,
-"Total sq km":1478,
-"Land Area Rank":-1,
-"Land sq mi":209.80,
-"Land sq km":543,
-"Land %":36.77,
-"Water sq mi":360.82,
-"Water sq km":935,
-"Water %":63.23,
-"Status":"Insular area (Territory)",
-"ISO":["US-GU", "GU", "GUM"],
-"ANSI Alpha":"GU",
-"ANSI Numeric":66,
-"USCG":"GU",
-"Old GPO":"GU",
-"AP":"Guam"
-},
-{
-"Name":"Howland Island",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Island",
-"ISO":["UM-84"],
-"ANSI Numeric":84
-},
-{
-"Name":"Jarvis Island",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Island",
-"ISO":["UM-86"],
-"ANSI Numeric":86
-},
-{
-"Name":"Johnston Atoll",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Atoll",
-"ISO":["UM-67"],
-"ANSI Numeric":67
-},
-{
-"Name":"Kingman Reef",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Atoll",
-"ISO":["UM-89"],
-"ANSI Numeric":89
-},
-{
-"Name":"Marshall Islands",
-"USPS":"MH",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Freely associated state",
-"ISO":["MH", "MHL"],
-"ANSI Alpha":"MH",
-"ANSI Numeric":68,
-"USCG":"MH"
-},
-{
-"Name":"Midway Islands",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Atoll",
-"ISO":["UM-71"],
-"ANSI Numeric":71
-},
-{
-"Name":"Minor Outlying Islands",
-"Total Area Rank":-1,
-"Total sq mi":16.0,
-"Total sq km":41,
-"Land Area Rank":-1,
-"Land sq mi":16.0,
-"Land sq km":41,
-"Status":"Insular areas",
-"ISO":["US-UM", "UM", "UMI"],
-"ANSI Alpha":"UM",
-"ANSI Numeric":74
-},
-{
-"Name":"Navassa Island",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Island",
-"ISO":["UM-76"],
-"ANSI Numeric":76
-},
-{
-"Name":"Northern Mariana Islands",
-"USPS":"MP",
-"Total Area Rank":-1,
-"Total sq mi":1975.57,
-"Total sq km":5117,
-"Land Area Rank":-1,
-"Land sq mi":182.33,
-"Land sq km":472,
-"Land %":,9.23,
-"Water sq mi":1793.24,
-"Water sq km":4644,
-"Water %":90.77,
-"Status":"Insular area (Commonwealth)",
-"ISO":["US-MP", "MP", "MNP"],
-"ANSI Alpha":"MP",
-"ANSI Numeric":69,
-"USCG":"CM",
-"Old GPO":"M.P."
-},
-{
-"Name":"Palau",
-"USPS":"PW",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Freely associated state",
-"ISO":["PW", "PLW"],
-"ANSI Alpha":"PW",
-"ANSI Numeric":70
-},
-{
-"Name":"Palmyra Atoll",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Atoll",
-"ISO":["UM-95"],
-"ANSI Numeric":95
-},
-{
-"Name":"Puerto Rico",
-"USPS":"PR",
-"Total Area Rank":-1,
-"Total sq mi":5324.84,
-"Total sq km":13791,
-"Land Area Rank":-1,
-"Land sq mi":3423.78,
-"Land sq km":8868,
-"Land %":64.30,
-"Water sq mi":1901.07,
-"Water sq km":4924,
-"Water %":35.70,
-"Status":"Insular area (Commonwealth)",
-"ISO":["US-PR", "PR", "PRI"],
-"ANSI Alpha":"PR",
-"ANSI Numeric":72,
-"USCG":"PR",
-"Old GPO":"P.R."
-},
-{
-"Name":"U.S. Armed Forces – Americas",
-"USPS":"AA",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"US military mail code",
-"ANSI Numeric":-1
-},
-{
-"Name":"U.S. Armed Forces – Europe",
-"USPS":"AE",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"US military mail code",
-"ANSI Numeric":-1
-},
-{
-"Name":"U.S. Armed Forces – Pacific",
-"USPS":"AP",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"US military mail code",
-"ANSI Numeric":-1
-},
-{
-"Name":"United States Virgin Islands",
-"USPS":"VI",
-"Total Area Rank":-1,
-"Total sq mi":732.93,
-"Total sq km":1,898,
-"Land Area Rank":-1,
-"Land sq mi":134.32,
-"Land sq km":348,
-"Land %":18.33,
-"Water sq mi":598.61,
-"Water sq km":1550,
-"Water %":81.67,
-"Status":"Insular area (Territory)",
-"ISO":["US-VI", "VI", "VIR"],
-"ANSI Alpha":"VI",
-"ANSI Numeric":78,
-"USCG":"VI",
-"Old GPO":"V.I.",
-"Other":["U.S.V.I."]
-},
-{
-"Name":"Wake Island",
-"Total Area Rank":-1,
-"Land Area Rank":-1,
-"Status":"Atoll",
-"ISO":["UM-79"],
-"ANSI Numeric":79
-},
-{
-"Name":"Alaska",
-"USPS":"AK",
-"Total Area Rank":1,
-"Total sq mi":665384.04,
-"Total sq km":1723337,
-"Land Area Rank":1,
-"Land sq mi":570640.95,
-"Land sq km":1477953,
-"Land %":85.76,
-"Water sq mi":94743.10,
-"Water sq km":245384,
-"Water %":14.24,
-"Status":"State",
-"ISO":["US-AK"],
-"ANSI Alpha":"AK",
-"ANSI Numeric":2,
-"USCG":"AK",
-"Old GPO":"AlaskaAlaska",
-"AP":"Alaska",
-"Other":["Alas."]
-},
-{
-"Name":"Texas",
-"USPS":"TX",
-"Total Area Rank":2,
-"Total sq mi":268596.46,
-"Total sq km":695662,
-"Land Area Rank":2,
-"Land sq mi":261231.71,
-"Land sq km":676587,
-"Land %":97.26,
-"Water sq mi":7364.75,
-"Water sq km":19075,
-"Water %":2.74,
-"Status":"State",
-"ISO":["US-TX"],
-"ANSI Alpha":"TX",
-"ANSI Numeric":48,
-"USCG":"TX",
-"Old GPO":"Tex.",
-"AP":"Texas",
-"Other":["Tx."]
-},
-{
-"Name":"California",
-"USPS":"CA",
-"Total Area Rank":3,
-"Total sq mi":163694.74,
-"Total sq km":423967,
-"Land Area Rank":3,
-"Land sq mi":,155779.22
-"Land sq km":403466,
-"Land %":95.16,
-"Water sq mi":7915.52,
-"Water sq km":20501,
-"Water %":,4.84
-"Status":"State",
-"ISO":["US-CA"],
-"ANSI Alpha":"CA",
-"ANSI Numeric":6,
-"USCG":"CF",
-"Old GPO":"Calif.",
-"AP":"Calif.",
-"Other":["Ca.", "Cal.", "Cali"]
-},
-{
-"Name":"Montana",
-"USPS":"MT",
-"Total Area Rank":4,
-"Total sq mi":147039.71,
-"Total sq km":380831,
-"Land Area Rank":4,
-"Land sq mi":145545.80,
-"Land sq km":376962,
-"Land %":98.98,
-"Water sq mi":1493.91,
-"Water sq km":3869,
-"Water %":1.02,
-"Status":"State",
-"ISO":["US-MT"],
-"ANSI Alpha":"MT",
-"ANSI Numeric":30,
-"USCG":"MT",
-"Old GPO":"Mont.",
-"AP":"Mont."
-},
-
-New Mexico,NM,5,"121,590.30","314,917",5,"121,298.15","314,161",99.76%,292.15,757,0.24%,State,US-NM,NM,35,NM,N. Mex.,N.M.,New M.
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Arizona,AZ,6,"113,990.30","295,234",6,"113,594.08","294,207",99.65%,396.22,"1,026",0.35%,State,US-AZ,AZ,4,AZ,Ariz.,Ariz.,Az.
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Nevada,NV,7,"110,571.82","286,380",7,"109,781.18","284,332",99.28%,790.65,"2,048",0.72%,State,US-NV,NV,32,NV,Nev.,Nev.,Nv.
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Colorado,CO,8,"104,093.67","269,601",8,"103,641.89","268,431",99.57%,451.78,"1,170",0.43%,State,US-CO,CO,8,CL,Colo.,Colo.,Col.
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Oregon,OR,9,"98,378.54","254,799",10,"95,988.01","248,608",97.57%,"2,390.53","6,191",2.43%,State,US-OR,OR,41,OR,Oreg.,Ore.,Or.
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-
-Wyoming,WY,10,"97,813.01","253,335",9,"97,093.14","251,470",99.26%,719.87,"1,864",0.74%,State,US-WY,WY,56,WY,Wyo.,Wyo.,Wy.
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Michigan,MI,11,"96,713.51","250,487",22,"56,538.90","146,435",58.46%,"40,174.61","104,052",41.54%,State,US-MI,MI,26,MC,Mich.,Mich.,
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Minnesota,MN,12,"86,935.83","225,163",14,"79,626.74","206,232",91.59%,"7,309.09","18,930",8.41%,State,US-MN,MN,27,MN,Minn.,Minn.,Mn.
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Utah,UT,13,"84,896.88","219,882",12,"82,169.62","212,818",96.79%,"2,727.26","7,064",3.21%,State,US-UT,UT,49,UT,Utah,Utah,Ut.
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Idaho,ID,14,"83,568.95","216,443",11,"82,643.12","214,045",98.89%,925.83,"2,398",1.11%,State,US-ID,ID,16,ID,Idaho,Idaho,"Id., Ida."
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Kansas,KS,15,"82,278.36","213,100",13,"81,758.72","211,754",99.37%,519.64,"1,346",0.63%,State,US-KS,KS,20,KA,Kans.,Kan.,"Ks., Ka."
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Nebraska,NE,16,"77,347.81","200,330",15,"76,824.17","198,974",99.32%,523.64,"1,356",0.68%,State,US-NE,NE,31,NB,Nebr.,Neb.,
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-South Dakota,SD,17,"77,115.68","199,729",16,"75,811.00","196,350",98.31%,"1,304.68","3,379",1.69%,State,US-SD,SD,46,SD,S. Dak.,S.D.,SoDak
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-Washington,WA,18,"71,297.95","184,661",20,"66,455.52","172,119",93.21%,"4,842.43","12,542",6.79%,State,US-WA,WA,53,WN,Wash.,Wash.,"Wa., Wn."
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
-North Dakota,ND,19,"70,698.32","183,108",17,"69,000.80","178,711",97.60%,"1,697.52","4,397",2.40%,State,US-ND,ND,38,ND,N. Dak.,N.D.,NoDak
-
-{
-"Name":"",
-"USPS":"",
-"Total Area Rank":,
-"Total sq mi":,
-"Total sq km":,
-"Land Area Rank":,
-"Land sq mi":,
-"Land sq km":,
-"Land %":,
-"Water sq mi":,
-"Water sq km":,
-"Water %":,
-"Status":"",
-"ISO":[],
-"ANSI Alpha":"",
-"ANSI Numeric":,
-"USCG":"",
-"Old GPO":"",
-"AP":"",
-"Other":[]
-},
-
+      "USPS":"USA",
+      "Total Area Rank":-1,
+      "Total sq mi":3805943.26,
+      "Total sq km":9857348,
+      "Land Area Rank":-1,
+      "Land sq mi":3535948.12,
+      "Land sq km":9158064,
+      "Land %":92.91,
+      "Water sq mi":269995.13,
+      "Water sq km":699284,
+      "Water %":7.09,
+      "Status":"Federal state",
+      "ISO":["US", "USA"],
+      "ANSI Alpha":"US",
+      "ANSI Numeric":0,
+      "USCG":"US",
+      "Old GPO":"U.S.",
+      "AP":"U.S.",
+      "Other":["U.S.A."]
+    },
+    {
+      "Name":"American Samoa",
+      "USPS":"AS",
+      "Total Area Rank":-1,
+      "Total sq mi":581.05,
+      "Total sq km":1505,
+      "Land Area Rank":-1,
+      "Land sq mi":76.46,
+      "Land sq km":198,
+      "Land %":13.16,
+      "Water sq mi":504.60,
+      "Water sq km":1307,
+      "Water %":86.84,
+      "Status":"Insular area (Territory)",
+      "ISO":["US-AS", "AS", "ASM"],
+      "ANSI Alpha":"AS",
+      "ANSI Numeric":60,
+      "USCG":"AS",
+      "Old GPO":"AS",
+      "AP":"A.S."
+    },
+    {
+      "Name":"Baker Island",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Island",
+      "ISO":["UM-81"],
+      "ANSI Numeric":81
+    },
+    {
+      "Name":"Contiguous United States",
+      "USPS":"USA",
+      "Total Area Rank":-1,
+      "Total sq mi":3120426.47,
+      "Total sq km":8081867,
+      "Land Area Rank":-1,
+      "Land sq mi":2954841.42,
+      "Land sq km":7653004,
+      "Land %":94.69,
+      "Water sq mi":165584.6,
+      "Water sq km":428862,
+      "Water %":5.31,
+      "Status":"Federal state",
+      "ISO":["US", "USA"],
+      "ANSI Alpha":"US",
+      "ANSI Numeric":0,
+      "USCG":"US",
+      "Old GPO":"U.S.",
+      "AP":"U.S.",
+      "Other":["U.S.A."]
+    },
+    {
+      "Name":"District of Columbia",
+      "USPS":"DC",
+      "Total Area Rank":-1,
+      "Total sq mi":68.34,
+      "Total sq km":177,
+      "Land Area Rank":-1,
+      "Land sq mi":61.05,
+      "Land sq km":158,
+      "Land %":89.33,
+      "Water sq mi":7.29,
+      "Water sq km":19,
+      "Water %":10.67,
+      "Status":"Federal district",
+      "ISO":["US-DC"],
+      "ANSI Alpha":"DC",
+      "ANSI Numeric":11,
+      "USCG":"DC",
+      "Old GPO":"D.C.",
+      "AP":"D.C.",
+      "Other":["Wash. D.C."]
+    },
+    {
+      "Name":"Federated States of Micronesia",
+      "USPS":"FM",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Freely associated state",
+      "ISO":["FM", "FSM"],
+      "ANSI Alpha":"FM",
+      "ANSI Numeric":64
+    },
+    {
+      "Name":"Guam",
+      "USPS":"GU",
+      "Total Area Rank":-1,
+      "Total sq mi":570.62,
+      "Total sq km":1478,
+      "Land Area Rank":-1,
+      "Land sq mi":209.80,
+      "Land sq km":543,
+      "Land %":36.77,
+      "Water sq mi":360.82,
+      "Water sq km":935,
+      "Water %":63.23,
+      "Status":"Insular area (Territory)",
+      "ISO":["US-GU", "GU", "GUM"],
+      "ANSI Alpha":"GU",
+      "ANSI Numeric":66,
+      "USCG":"GU",
+      "Old GPO":"GU",
+      "AP":"Guam"
+    },
+    {
+      "Name":"Howland Island",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Island",
+      "ISO":["UM-84"],
+      "ANSI Numeric":84
+    },
+    {
+      "Name":"Jarvis Island",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Island",
+      "ISO":["UM-86"],
+      "ANSI Numeric":86
+    },
+    {
+      "Name":"Johnston Atoll",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Atoll",
+      "ISO":["UM-67"],
+      "ANSI Numeric":67
+    },
+    {
+      "Name":"Kingman Reef",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Atoll",
+      "ISO":["UM-89"],
+      "ANSI Numeric":89
+    },
+    {
+      "Name":"Marshall Islands",
+      "USPS":"MH",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Freely associated state",
+      "ISO":["MH", "MHL"],
+      "ANSI Alpha":"MH",
+      "ANSI Numeric":68,
+      "USCG":"MH"
+    },
+    {
+      "Name":"Midway Islands",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Atoll",
+      "ISO":["UM-71"],
+      "ANSI Numeric":71
+    },
+    {
+      "Name":"Minor Outlying Islands",
+      "Total Area Rank":-1,
+      "Total sq mi":16.0,
+      "Total sq km":41,
+      "Land Area Rank":-1,
+      "Land sq mi":16.0,
+      "Land sq km":41,
+      "Status":"Insular areas",
+      "ISO":["US-UM", "UM", "UMI"],
+      "ANSI Alpha":"UM",
+      "ANSI Numeric":74
+    },
+    {
+      "Name":"Navassa Island",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Island",
+      "ISO":["UM-76"],
+      "ANSI Numeric":76
+    },
+    {
+      "Name":"Northern Mariana Islands",
+      "USPS":"MP",
+      "Total Area Rank":-1,
+      "Total sq mi":1975.57,
+      "Total sq km":5117,
+      "Land Area Rank":-1,
+      "Land sq mi":182.33,
+      "Land sq km":472,
+      "Land %":,9.23,
+      "Water sq mi":1793.24,
+      "Water sq km":4644,
+      "Water %":90.77,
+      "Status":"Insular area (Commonwealth)",
+      "ISO":["US-MP", "MP", "MNP"],
+      "ANSI Alpha":"MP",
+      "ANSI Numeric":69,
+      "USCG":"CM",
+      "Old GPO":"M.P."
+    },
+    {
+      "Name":"Palau",
+      "USPS":"PW",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Freely associated state",
+      "ISO":["PW", "PLW"],
+      "ANSI Alpha":"PW",
+      "ANSI Numeric":70
+    },
+    {
+      "Name":"Palmyra Atoll",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Atoll",
+      "ISO":["UM-95"],
+      "ANSI Numeric":95
+    },
+    {
+      "Name":"Puerto Rico",
+      "USPS":"PR",
+      "Total Area Rank":-1,
+      "Total sq mi":5324.84,
+      "Total sq km":13791,
+      "Land Area Rank":-1,
+      "Land sq mi":3423.78,
+      "Land sq km":8868,
+      "Land %":64.30,
+      "Water sq mi":1901.07,
+      "Water sq km":4924,
+      "Water %":35.70,
+      "Status":"Insular area (Commonwealth)",
+      "ISO":["US-PR", "PR", "PRI"],
+      "ANSI Alpha":"PR",
+      "ANSI Numeric":72,
+      "USCG":"PR",
+      "Old GPO":"P.R."
+    },
+    {
+      "Name":"U.S. Armed Forces – Americas",
+      "USPS":"AA",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"US military mail code",
+      "ANSI Numeric":-1
+    },
+    {
+      "Name":"U.S. Armed Forces – Europe",
+      "USPS":"AE",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"US military mail code",
+      "ANSI Numeric":-1
+    },
+    {
+      "Name":"U.S. Armed Forces – Pacific",
+      "USPS":"AP",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"US military mail code",
+      "ANSI Numeric":-1
+    },
+    {
+      "Name":"United States Virgin Islands",
+      "USPS":"VI",
+      "Total Area Rank":-1,
+      "Total sq mi":732.93,
+      "Total sq km":1,898,
+      "Land Area Rank":-1,
+      "Land sq mi":134.32,
+      "Land sq km":348,
+      "Land %":18.33,
+      "Water sq mi":598.61,
+      "Water sq km":1550,
+      "Water %":81.67,
+      "Status":"Insular area (Territory)",
+      "ISO":["US-VI", "VI", "VIR"],
+      "ANSI Alpha":"VI",
+      "ANSI Numeric":78,
+      "USCG":"VI",
+      "Old GPO":"V.I.",
+      "Other":["U.S.V.I."]
+    },
+    {
+      "Name":"Wake Island",
+      "Total Area Rank":-1,
+      "Land Area Rank":-1,
+      "Status":"Atoll",
+      "ISO":["UM-79"],
+      "ANSI Numeric":79
+    },
+    {
+      "Name":"Alaska",
+      "USPS":"AK",
+      "Total Area Rank":1,
+      "Total sq mi":665384.04,
+      "Total sq km":1723337,
+      "Land Area Rank":1,
+      "Land sq mi":570640.95,
+      "Land sq km":1477953,
+      "Land %":85.76,
+      "Water sq mi":94743.10,
+      "Water sq km":245384,
+      "Water %":14.24,
+      "Status":"State",
+      "ISO":["US-AK"],
+      "ANSI Alpha":"AK",
+      "ANSI Numeric":2,
+      "USCG":"AK",
+      "Old GPO":"AlaskaAlaska",
+      "AP":"Alaska",
+      "Other":["Alas."]
+    },
+    {
+      "Name":"Texas",
+      "USPS":"TX",
+      "Total Area Rank":2,
+      "Total sq mi":268596.46,
+      "Total sq km":695662,
+      "Land Area Rank":2,
+      "Land sq mi":261231.71,
+      "Land sq km":676587,
+      "Land %":97.26,
+      "Water sq mi":7364.75,
+      "Water sq km":19075,
+      "Water %":2.74,
+      "Status":"State",
+      "ISO":["US-TX"],
+      "ANSI Alpha":"TX",
+      "ANSI Numeric":48,
+      "USCG":"TX",
+      "Old GPO":"Tex.",
+      "AP":"Texas",
+      "Other":["Tx."]
+    },
+    {
+      "Name":"California",
+      "USPS":"CA",
+      "Total Area Rank":3,
+      "Total sq mi":163694.74,
+      "Total sq km":423967,
+      "Land Area Rank":3,
+      "Land sq mi":,155779.22
+      "Land sq km":403466,
+      "Land %":95.16,
+      "Water sq mi":7915.52,
+      "Water sq km":20501,
+      "Water %":,4.84
+      "Status":"State",
+      "ISO":["US-CA"],
+      "ANSI Alpha":"CA",
+      "ANSI Numeric":6,
+      "USCG":"CF",
+      "Old GPO":"Calif.",
+      "AP":"Calif.",
+      "Other":["Ca.", "Cal.", "Cali"]
+    },
+    {
+      "Name":"Montana",
+      "USPS":"MT",
+      "Total Area Rank":4,
+      "Total sq mi":147039.71,
+      "Total sq km":380831,
+      "Land Area Rank":4,
+      "Land sq mi":145545.80,
+      "Land sq km":376962,
+      "Land %":98.98,
+      "Water sq mi":1493.91,
+      "Water sq km":3869,
+      "Water %":1.02,
+      "Status":"State",
+      "ISO":["US-MT"],
+      "ANSI Alpha":"MT",
+      "ANSI Numeric":30,
+      "USCG":"MT",
+      "Old GPO":"Mont.",
+      "AP":"Mont."
+    },
+    {
+      "Name":"New Mexico",
+      "USPS":"NM",
+      "Total Area Rank":5,
+      "Total sq mi":121590.30,
+      "Total sq km":314917,
+      "Land Area Rank":5,
+      "Land sq mi":121298.15,
+      "Land sq km":314161,
+      "Land %":99.76,
+      "Water sq mi":292.15,
+      "Water sq km":757,
+      "Water %":0.24,
+      "Status":"State",
+      "ISO":["US-NM"],
+      "ANSI Alpha":"NM",
+      "ANSI Numeric":35,
+      "USCG":"NM",
+      "Old GPO":"N. Mex.",
+      "AP":"N.M.",
+      "Other":["New M."]
+    },
+    {
+      "Name":"Arizona",
+      "USPS":"AZ",
+      "Total Area Rank":6,
+      "Total sq mi":113990.30,
+      "Total sq km":295234,
+      "Land Area Rank":6,
+      "Land sq mi":113594.08,
+      "Land sq km":294207,
+      "Land %":99.65,
+      "Water sq mi":396.22,
+      "Water sq km":1026,
+      "Water %":0.35,
+      "Status":"State",
+      "ISO":["US-AZ"],
+      "ANSI Alpha":"AZ",
+      "ANSI Numeric":4,
+      "USCG":"AZ",
+      "Old GPO":"Ariz.",
+      "AP":"Ariz.",
+      "Other":["Az."]
+    },
+    {
+      "Name":"Nevada",
+      "USPS":"NV",
+      "Total Area Rank":7,
+      "Total sq mi":110571.82,
+      "Total sq km":286380,
+      "Land Area Rank":7,
+      "Land sq mi":109781.18,
+      "Land sq km":284332,
+      "Land %":99.28,
+      "Water sq mi":790.65,
+      "Water sq km":2048,
+      "Water %":0.72,
+      "Status":"State",
+      "ISO":["US-NV"],
+      "ANSI Alpha":"NV",
+      "ANSI Numeric":32,
+      "USCG":"NV",
+      "Old GPO":"Nev.",
+      "AP":"Nev.",
+      "Other":["Nv."]
+    },
+    {
+      "Name":"Colorado",
+      "USPS":"CO",
+      "Total Area Rank":8,
+      "Total sq mi":104093.67,
+      "Total sq km":269601,
+      "Land Area Rank":8,
+      "Land sq mi":103641.89,
+      "Land sq km":268431,
+      "Land %":99.57,
+      "Water sq mi":451.78,
+      "Water sq km":1170,
+      "Water %":0.43,
+      "Status":"State",
+      "ISO":["US-CO"],
+      "ANSI Alpha":"CO",
+      "ANSI Numeric":8,
+      "USCG":"CL",
+      "Old GPO":"Colo.",
+      "AP":"Colo.",
+      "Other":["Col."]
+    },
+    {
+      "Name":"Oregon",
+      "USPS":"OR",
+      "Total Area Rank":9,
+      "Total sq mi":98378.54,
+      "Total sq km":254799,
+      "Land Area Rank":10,
+      "Land sq mi":95988.01,
+      "Land sq km":248608,
+      "Land %":97.57,
+      "Water sq mi":2390.53,
+      "Water sq km":6191,
+      "Water %":2.43,
+      "Status":"State",
+      "ISO":["US-OR"],
+      "ANSI Alpha":"OR",
+      "ANSI Numeric":41,
+      "USCG":"OR",
+      "Old GPO":"Oreg.",
+      "AP":"Ore.",
+      "Other":["Or."]
+    },
+    {
+      "Name":"Wyoming",
+      "USPS":"WY",
+      "Total Area Rank":10,
+      "Total sq mi":97813.01,
+      "Total sq km":253335,
+      "Land Area Rank":9,
+      "Land sq mi":97093.14,
+      "Land sq km":251470,
+      "Land %":99.26,
+      "Water sq mi":719.87,
+      "Water sq km":1864,
+      "Water %":0.74,
+      "Status":"State",
+      "ISO":["US-WY"],
+      "ANSI Alpha":"WY",
+      "ANSI Numeric":56,
+      "USCG":"WY",
+      "Old GPO":"Wyo.",
+      "AP":"Wyo.",
+      "Other":["Wy."]
+    },
+    {
+      "Name":"Michigan",
+      "USPS":"MI",
+      "Total Area Rank":11,
+      "Total sq mi":96713.51,
+      "Total sq km":250487,
+      "Land Area Rank":22,
+      "Land sq mi":56538.90,
+      "Land sq km":146435,
+      "Land %":58.46,
+      "Water sq mi":40174.61,
+      "Water sq km":104052,
+      "Water %":41.54,
+      "Status":"State",
+      "ISO":["US-MI"],
+      "ANSI Alpha":"MI",
+      "ANSI Numeric":26,
+      "USCG":"MC",
+      "Old GPO":"Mich.",
+      "AP":"Mich."
+    },
+    {
+      "Name":"Minnesota",
+      "USPS":"MN",
+      "Total Area Rank":12,
+      "Total sq mi":86935.83,
+      "Total sq km":225163,
+      "Land Area Rank":14,
+      "Land sq mi":79626.74,
+      "Land sq km":206232,
+      "Land %":91.59,
+      "Water sq mi":7309.09,
+      "Water sq km":18930,
+      "Water %":8.41,
+      "Status":"State",
+      "ISO":["US-MN"],
+      "ANSI Alpha":"MN",
+      "ANSI Numeric":27,
+      "USCG":"MN",
+      "Old GPO":"Minn.",
+      "AP":"Minn.",
+      "Other":["Mn."]
+    },
+    {
+      "Name":"Utah",
+      "USPS":"UT",
+      "Total Area Rank":13,
+      "Total sq mi":84896.88,
+      "Total sq km":219882,
+      "Land Area Rank":12,
+      "Land sq mi":82169.62,
+      "Land sq km":212818,
+      "Land %":96.79,
+      "Water sq mi":2727.26,
+      "Water sq km":7064,
+      "Water %":3.21,
+      "Status":"State",
+      "ISO":["US-UT"],
+      "ANSI Alpha":"UT",
+      "ANSI Numeric":49,
+      "USCG":"UT",
+      "Old GPO":"Utah",
+      "AP":"Utah",
+      "Other":["Ut."]
+    },
+    {
+      "Name":"Idaho",
+      "USPS":"ID",
+      "Total Area Rank":14,
+      "Total sq mi":83568.95,
+      "Total sq km":216443,
+      "Land Area Rank":11,
+      "Land sq mi":82643.12,
+      "Land sq km":214045,
+      "Land %":98.89,
+      "Water sq mi":925.83,
+      "Water sq km":2398,
+      "Water %":1.11,
+      "Status":"State",
+      "ISO":["US-ID"],
+      "ANSI Alpha":"ID",
+      "ANSI Numeric":16,
+      "USCG":"ID",
+      "Old GPO":"Idaho",
+      "AP":"Idaho",
+      "Other":["Id.", "Ida."]
+    },
+    {
+      "Name":"Kansas",
+      "USPS":"KS",
+      "Total Area Rank":15,
+      "Total sq mi":82278.36,
+      "Total sq km":213100,
+      "Land Area Rank":13,
+      "Land sq mi":81758.72,
+      "Land sq km":211754,
+      "Land %":99.37,
+      "Water sq mi":519.64,
+      "Water sq km":1346,
+      "Water %":0.63,
+      "Status":"State",
+      "ISO":["US-KS"],
+      "ANSI Alpha":"KS",
+      "ANSI Numeric":20,
+      "USCG":"KA",
+      "Old GPO":"Kans.",
+      "AP":"Kan.",
+      "Other":["Ks.", "Ka."]
+    },
+    {
+      "Name":"Nebraska",
+      "USPS":"NE",
+      "Total Area Rank":16,
+      "Total sq mi":77347.81,
+      "Total sq km":200330,
+      "Land Area Rank":15,
+      "Land sq mi":76824.17,
+      "Land sq km":198974,
+      "Land %":99.32,
+      "Water sq mi":523.64,
+      "Water sq km":1356,
+      "Water %":0.68,
+      "Status":"State",
+      "ISO":["US-NE"],
+      "ANSI Alpha":"NE",
+      "ANSI Numeric":31,
+      "USCG":"NB",
+      "Old GPO":"Nebr.",
+      "AP":"Neb."
+    },
+    {
+      "Name":"South Dakota",
+      "USPS":"SD",
+      "Total Area Rank":17,
+      "Total sq mi":77115.68,
+      "Total sq km":199729,
+      "Land Area Rank":16,
+      "Land sq mi":75811.00,
+      "Land sq km":196350,
+      "Land %":98.31,
+      "Water sq mi":1304.68,
+      "Water sq km":3379,
+      "Water %":1.69,
+      "Status":"State",
+      "ISO":["US-SD"],
+      "ANSI Alpha":"SD",
+      "ANSI Numeric":46,
+      "USCG":"SD",
+      "Old GPO":"S. Dak.",
+      "AP":"S.D.",
+      "Other":["SoDak"]
+    },
+    {
+      "Name":"Washington",
+      "USPS":"WA",
+      "Total Area Rank":18,
+      "Total sq mi":71297.95,
+      "Total sq km":184661,
+      "Land Area Rank":20,
+      "Land sq mi":66455.52,
+      "Land sq km":172119,
+      "Land %":93.21,
+      "Water sq mi":4842.43,
+      "Water sq km":12542,
+      "Water %":6.79,
+      "Status":"State",
+      "ISO":["US-WA"],
+      "ANSI Alpha":"WA",
+      "ANSI Numeric":53,
+      "USCG":"WN",
+      "Old GPO":"Wash.",
+      "AP":"Wash.",
+      "Other":["Wa.", "Wn."]
+    },
+    {
+      "Name":"North Dakota",
+      "USPS":"ND",
+      "Total Area Rank":19,
+      "Total sq mi":70698.32,
+      "Total sq km":183108,
+      "Land Area Rank":17,
+      "Land sq mi":69000.80,
+      "Land sq km":178711,
+      "Land %":97.60,
+      "Water sq mi":1697.52,
+      "Water sq km":4397,
+      "Water %":2.40,
+      "Status":"State",
+      "ISO":["US-ND"],
+      "ANSI Alpha":"ND",
+      "ANSI Numeric":38,
+      "USCG":"ND",
+      "Old GPO":"N. Dak.",
+      "AP":"N.D.",
+      "Other":["NoDak"]
+    },
 Oklahoma,OK,20,"69,898.87","181,037",19,"68,594.92","177,660",98.13%,"1,303.95","3,377",1.87%,State,US-OK,OK,40,OK,Okla.,Okla.,Ok.
-
 {
 "Name":"",
 "USPS":"",
@@ -818,9 +769,7 @@ Oklahoma,OK,20,"69,898.87","181,037",19,"68,594.92","177,660",98.13%,"1,303.95",
 "AP":"",
 "Other":[]
 },
-
 Missouri,MO,21,"69,706.99","180,540",18,"68,741.52","178,040",98.61%,965.47,"2,501",1.39%,State,US-MO,MO,29,MO,Mo.,Mo.,
-
 {
 "Name":"",
 "USPS":"",
@@ -843,9 +792,7 @@ Missouri,MO,21,"69,706.99","180,540",18,"68,741.52","178,040",98.61%,965.47,"2,5
 "AP":"",
 "Other":[]
 },
-
 Florida,FL,22,"65,757.70","170,312",26,"53,624.76","138,887",81.55%,"12,132.94","31,424",18.45%,State,US-FL,FL,12,FL,Fla.,Fla.,"Fl., Flor."
-
 {
 "Name":"",
 "USPS":"",
@@ -893,9 +840,7 @@ Wisconsin,WI,23,"65,496.38","169,635",25,"54,157.80","140,268",82.69%,"11,338.57
 "AP":"",
 "Other":[]
 },
-
 Georgia,GA,24,"59,425.15","153,910",21,"57,513.49","148,959",96.78%,"1,911.66","4,951",3.22%,State,US-GA,GA,13,GA,Ga.,Ga.,
-
 {
 "Name":"",
 "USPS":"",
@@ -918,9 +863,7 @@ Georgia,GA,24,"59,425.15","153,910",21,"57,513.49","148,959",96.78%,"1,911.66","
 "AP":"",
 "Other":[]
 },
-
 Illinois,IL,25,"57,913.55","149,995",24,"55,518.93","143,793",95.87%,"2,394.62","6,202",4.13%,State,US-IL,IL,17,IL,Ill.,Ill.,"Il., Ills., Ill's"
-
 {
 "Name":"",
 "USPS":"",
@@ -943,9 +886,7 @@ Illinois,IL,25,"57,913.55","149,995",24,"55,518.93","143,793",95.87%,"2,394.62",
 "AP":"",
 "Other":[]
 },
-
 Iowa,IA,26,"56,272.81","145,746",23,"55,857.13","144,669",99.26%,415.68,"1,077",0.74%,State,US-IA,IA,19,IA,Iowa,Iowa,"Ia., Ioa.[7]"
-
 {
 "Name":"",
 "USPS":"",
@@ -968,10 +909,7 @@ Iowa,IA,26,"56,272.81","145,746",23,"55,857.13","144,669",99.26%,415.68,"1,077",
 "AP":"",
 "Other":[]
 },
-
 New York,NY,27,"54,554.98","141,297",30,"47,126.40","122,057",86.38%,"7,428.58","19,240",13.62%,State,US-NY,NY,36,NY,N.Y.,N.Y.,N. York
-
-
 {
 "Name":"",
 "USPS":"",
@@ -994,9 +932,7 @@ New York,NY,27,"54,554.98","141,297",30,"47,126.40","122,057",86.38%,"7,428.58",
 "AP":"",
 "Other":[]
 },
-
 North Carolina,NC,28,"53,819.16","139,391",29,"48,617.91","125,920",90.34%,"5,201.25","13,471",9.66%,State,US-NC,NC,37,NC,N.C.,N.C.,N. Car.
-
 {
 "Name":"",
 "USPS":"",
@@ -1019,9 +955,7 @@ North Carolina,NC,28,"53,819.16","139,391",29,"48,617.91","125,920",90.34%,"5,20
 "AP":"",
 "Other":[]
 },
-
 Arkansas,AR,29,"53,178.55","137,732",27,"52,035.48","134,771",97.85%,"1,143.07","2,961",2.15%,State,US-AR,AR,5,AR,Ark.,Ark.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1044,9 +978,7 @@ Arkansas,AR,29,"53,178.55","137,732",27,"52,035.48","134,771",97.85%,"1,143.07",
 "AP":"",
 "Other":[]
 },
-
 Alabama,AL,30,"52,420.07","135,767",28,"50,645.33","131,171",96.61%,"1,774.74","4,597",3.39%,State,US-AL,AL,1,AL,Ala.,Ala.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1069,9 +1001,7 @@ Alabama,AL,30,"52,420.07","135,767",28,"50,645.33","131,171",96.61%,"1,774.74","
 "AP":"",
 "Other":[]
 },
-
 Louisiana,LA,31,"52,378.13","135,659",33,"43,203.90","111,898",82.48%,"9,174.23","23,761",17.52%,State,US-LA,LA,22,LA,La.,La.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1094,9 +1024,7 @@ Louisiana,LA,31,"52,378.13","135,659",33,"43,203.90","111,898",82.48%,"9,174.23"
 "AP":"",
 "Other":[]
 },
-
 Mississippi,MS,32,"48,431.78","125,438",31,"46,923.27","121,531",96.89%,"1,508.51","3,907",3.11%,State,US-MS,MS,28,MI,Miss.,Miss.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1119,9 +1047,7 @@ Mississippi,MS,32,"48,431.78","125,438",31,"46,923.27","121,531",96.89%,"1,508.5
 "AP":"",
 "Other":[]
 },
-
 Pennsylvania,PA,33,"46,054.35","119,280",32,"44,742.70","115,883",97.15%,"1,311.64","3,397",2.85%,State (Commonwealth),US-PA,PA,42,PA,Pa.,Pa.,"Penn., Penna."
-
 {
 "Name":"",
 "USPS":"",
@@ -1144,9 +1070,7 @@ Pennsylvania,PA,33,"46,054.35","119,280",32,"44,742.70","115,883",97.15%,"1,311.
 "AP":"",
 "Other":[]
 },
-
 Ohio,OH,34,"44,825.58","116,098",35,"40,860.69","105,829",91.15%,"3,964.89","10,269",8.85%,State,US-OH,OH,39,OH,Ohio,Ohio,"O., Oh."
-
 {
 "Name":"",
 "USPS":"",
@@ -1169,9 +1093,7 @@ Ohio,OH,34,"44,825.58","116,098",35,"40,860.69","105,829",91.15%,"3,964.89","10,
 "AP":"",
 "Other":[]
 },
-
 Virginia,VA,35,"42,774.93","110,787",36,"39,490.09","102,279",92.32%,"3,284.84","8,508",7.68%,State (Commonwealth),US-VA,VA,51,VA,Va.,Va.,Virg.
-
 {
 "Name":"",
 "USPS":"",
@@ -1194,9 +1116,7 @@ Virginia,VA,35,"42,774.93","110,787",36,"39,490.09","102,279",92.32%,"3,284.84",
 "AP":"",
 "Other":[]
 },
-
 Tennessee,TN,36,"42,144.25","109,153",34,"41,234.90","106,798",97.84%,909.36,"2,355",2.16%,State,US-TN,TN,47,TN,Tenn.,Tenn.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1219,9 +1139,7 @@ Tennessee,TN,36,"42,144.25","109,153",34,"41,234.90","106,798",97.84%,909.36,"2,
 "AP":"",
 "Other":[]
 },
-
 Kentucky,KY,37,"40,407.80","104,656",37,"39,486.34","102,269",97.72%,921.46,"2,387",2.28%,State (Commonwealth),US-KY,KY,21,KY,Ky.,Ky.,"Ken., Kent."
-
 {
 "Name":"",
 "USPS":"",
@@ -1244,9 +1162,7 @@ Kentucky,KY,37,"40,407.80","104,656",37,"39,486.34","102,269",97.72%,921.46,"2,3
 "AP":"",
 "Other":[]
 },
-
 Indiana,IN,38,"36,419.55","94,326",38,"35,826.11","92,789",98.37%,593.44,"1,537",1.63%,State,US-IN,IN,18,IN,Ind.,Ind.,In.
-
 {
 "Name":"",
 "USPS":"",
@@ -1269,9 +1185,7 @@ Indiana,IN,38,"36,419.55","94,326",38,"35,826.11","92,789",98.37%,593.44,"1,537"
 "AP":"",
 "Other":[]
 },
-
 Maine,ME,39,"35,379.74","91,633",39,"30,842.92","79,883",87.18%,"4,536.82","11,750",12.82%,State,US-ME,ME,23,ME,Maine,Maine,Me.
-
 {
 "Name":"",
 "USPS":"",
@@ -1294,9 +1208,7 @@ Maine,ME,39,"35,379.74","91,633",39,"30,842.92","79,883",87.18%,"4,536.82","11,7
 "AP":"",
 "Other":[]
 },
-
 South Carolina,SC,40,"32,020.49","82,933",40,"30,060.70","77,857",93.88%,"1,959.79","5,076",6.12%,State,US-SC,SC,45,SC,S.C.,S.C.,S. Car.
-
 {
 "Name":"",
 "USPS":"",
@@ -1319,9 +1231,7 @@ South Carolina,SC,40,"32,020.49","82,933",40,"30,060.70","77,857",93.88%,"1,959.
 "AP":"",
 "Other":[]
 },
-
 West Virginia,WV,41,"24,230.04","62,756",41,"24,038.21","62,259",99.21%,191.83,497,0.79%,State,US-WV,WV,54,WV,W. Va.,W.Va.,"W.V., W. Virg."
-
 {
 "Name":"",
 "USPS":"",
@@ -1344,9 +1254,7 @@ West Virginia,WV,41,"24,230.04","62,756",41,"24,038.21","62,259",99.21%,191.83,4
 "AP":"",
 "Other":[]
 },
-
 Maryland,MD,42,"12,405.93","32,131",42,"9,707.24","25,142",78.25%,"2,698.69","6,990",21.75%,State,US-MD,MD,24,MD,Md.,Md.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1369,9 +1277,7 @@ Maryland,MD,42,"12,405.93","32,131",42,"9,707.24","25,142",78.25%,"2,698.69","6,
 "AP":"",
 "Other":[]
 },
-
 Hawaii,HI,43,"10,931.72","28,313",47,"6,422.63","16,635",58.75%,"4,509.09","11,678",41.25%,State,US-HI,HI,15,HA,Hawaii,Hawaii,H.I.
-
 {
 "Name":"",
 "USPS":"",
@@ -1394,9 +1300,7 @@ Hawaii,HI,43,"10,931.72","28,313",47,"6,422.63","16,635",58.75%,"4,509.09","11,6
 "AP":"",
 "Other":[]
 },
-
 Massachusetts,MA,44,"10,554.39","27,336",45,"7,800.06","20,202",73.90%,"2,754.33","7,134",26.10%,State (Commonwealth),US-MA,MA,25,MS,Mass.,Mass.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1419,9 +1323,7 @@ Massachusetts,MA,44,"10,554.39","27,336",45,"7,800.06","20,202",73.90%,"2,754.33
 "AP":"",
 "Other":[]
 },
-
 Vermont,VT,45,"9,616.36","24,906",43,"9,216.66","23,871",95.84%,399.71,"1,035",4.16%,State,US-VT,VT,50,VT,Vt.,Vt.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1444,9 +1346,7 @@ Vermont,VT,45,"9,616.36","24,906",43,"9,216.66","23,871",95.84%,399.71,"1,035",4
 "AP":"",
 "Other":[]
 },
-
 New Hampshire,NH,46,"9,349.16","24,214",44,"8,952.65","23,187",95.76%,396.51,"1,027",4.24%,State,US-NH,NH,33,NH,N.H.,N.H.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1469,9 +1369,7 @@ New Hampshire,NH,46,"9,349.16","24,214",44,"8,952.65","23,187",95.76%,396.51,"1,
 "AP":"",
 "Other":[]
 },
-
 New Jersey,NJ,47,"8,722.58","22,591",46,"7,354.22","19,047",84.31%,"1,368.36","3,544",15.69%,State,US-NJ,NJ,34,NJ,N.J.,N.J.,
-
 {
 "Name":"",
 "USPS":"",
@@ -1494,8 +1392,6 @@ New Jersey,NJ,47,"8,722.58","22,591",46,"7,354.22","19,047",84.31%,"1,368.36","3
 "AP":"",
 "Other":[]
 },
-
-
 Connecticut,CT,48,"5,543.41","14,357",48,"4,842.36","12,542",87.35%,701.06,"1,816",12.65%,State,US-CT,CT,9,CT,Conn.,Conn.,Ct.
 {
 "Name":"",
@@ -1519,8 +1415,6 @@ Connecticut,CT,48,"5,543.41","14,357",48,"4,842.36","12,542",87.35%,701.06,"1,81
 "AP":"",
 "Other":[]
 },
-
-
 Delaware,DE,49,"2,488.72","6,446",49,"1,948.54","5,047",78.29%,540.18,"1,399",21.71%,State,US-DE,DE,10,DL,Del.,Del.,De.
 {
 "Name":"",
@@ -1543,28 +1437,28 @@ Delaware,DE,49,"2,488.72","6,446",49,"1,948.54","5,047",78.29%,540.18,"1,399",21
 "Old GPO":"",
 "AP":"",
 "Other":[]
-},
-{
-"Name":"Rhode Island",
-"USPS":"RI",
-"Total Area Rank":50,
-"Total sq mi":1544.89,
-"Total sq km":4001,
-"Land Area Rank":50,
-"Land sq mi":1033.81,
-"Land sq km":2678,
-"Land %":66.92,
-"Water sq mi":511.07,
-"Water sq km":1324,
-"Water %":33.08,
-"Status":"State",
-"ISO":["US-RI"],
-"ANSI Alpha":"RI",
-"ANSI Numeric":44,
-"USCG":"RI",
-"Old GPO":"R.I.",
-"AP":"R.I.",
-"Other":["R.I. & P.P.", "R. Isl."]
-}
-]
+    },
+    {
+      "Name":"Rhode Island",
+      "USPS":"RI",
+      "Total Area Rank":50,
+      "Total sq mi":1544.89,
+      "Total sq km":4001,
+      "Land Area Rank":50,
+      "Land sq mi":1033.81,
+      "Land sq km":2678,
+      "Land %":66.92,
+      "Water sq mi":511.07,
+      "Water sq km":1324,
+      "Water %":33.08,
+      "Status":"State",
+      "ISO":["US-RI"],
+      "ANSI Alpha":"RI",
+      "ANSI Numeric":44,
+      "USCG":"RI",
+      "Old GPO":"R.I.",
+      "AP":"R.I.",
+      "Other":["R.I. & P.P.", "R. Isl."]
+    }
+  ]
 }
