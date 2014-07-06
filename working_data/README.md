@@ -54,10 +54,10 @@ Here is a quick list of commands you'll use all the time.
 <dd><pre>postgres=# \l</pre></dd>
 
 <dt><strong>Create database</strong></dt>
-<dd><pre>postgres=# CREATE DATABASE demodb1 WITH OWNER demorole1 ENCODING 'UTF8';</pre></dd>
+<dd><pre>postgres=# CREATE DATABASE [databasename] WITH OWNER [databaserole] ENCODING 'UTF8';</pre></dd>
 
 <dt><strong>Grant privileges to new user</strong></dt>
-<dd><pre>postgres=# GRANT ALL PRIVILEGES ON DATABASE demodb1 TO demorole1;</pre></dd>
+<dd><pre>postgres=# GRANT ALL PRIVILEGES ON DATABASE [databasename] TO [databaserole];</pre></dd>
 
 <dt><strong>Connect to database</strong></dt>
 <dd><pre>postgres=# \c [databasename]</pre></dd>
@@ -75,10 +75,13 @@ Here is a quick list of commands you'll use all the time.
 <dd><pre>postgres=# \d [tablename]</pre></dd>
 
 <dt><strong>Backup database</strong></dt>
-<dd><pre>postgres=# pg_dump [databasename] > [outfile]</pre></dd>
+<dd><pre>$ pg_dump -U [username] [databasename] -Fc > backup.dump</pre></dd>
 
-<dt><strong>Drop database</strong></dt>
-<dd><pre>postgres=# DROP DATABASE demodb1;</pre></dd>
+<dt><strong>Delete a table</strong></dt>
+<dd><pre>postgres=# DROP TABLE [tablename]</pre></dd>
+
+<dt><strong>Delete a database</strong></dt>
+<dd><pre>postgres=# DROP DATABASE [databasename];</pre></dd>
 </dl>
 
 ===
