@@ -14,6 +14,8 @@ saving lives.
 
 ### Getting Started
 
+See the Prezi presentation: https://prezi.com/7s1edw-6xqgo/the-problem-with-food-safety-data/
+
 Check out the Github wiki link in the right sidebar of the repository's home 
 page, it contains much background and several pages worth of content and 
 research done so far on the problem, we highly recommend reading through it 
